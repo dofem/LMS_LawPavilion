@@ -1,0 +1,8 @@
+2026-01-18 15:00:41.969 +01:00 [WRN] Failed to determine the https port for redirect.
+2026-01-18 15:00:42.634 +01:00 [ERR] An Error occured: Unable to resolve service for type 'LIBRARY_MANAGEMENT_SYSTEM.Services.Interface.IAuthService' while attempting to activate 'LIBRARY_MANAGEMENT_SYSTEM.Controllers.AuthController'.
+2026-01-18 15:01:12.236 +01:00 [ERR] An Error occured: Unable to resolve service for type 'LIBRARY_MANAGEMENT_SYSTEM.Services.Interface.IAuthService' while attempting to activate 'LIBRARY_MANAGEMENT_SYSTEM.Controllers.AuthController'.
+2026-01-18 15:01:16.203 +01:00 [ERR] An Error occured: Unable to resolve service for type 'LIBRARY_MANAGEMENT_SYSTEM.Services.Interface.IAuthService' while attempting to activate 'LIBRARY_MANAGEMENT_SYSTEM.Controllers.AuthController'.
+2026-01-18 15:01:27.770 +01:00 [ERR] An Error occured: Unable to resolve service for type 'LIBRARY_MANAGEMENT_SYSTEM.Services.Interface.IAuthService' while attempting to activate 'LIBRARY_MANAGEMENT_SYSTEM.Controllers.AuthController'.
+2026-01-18 15:01:53.333 +01:00 [ERR] An Error occured: Unable to resolve service for type 'LIBRARY_MANAGEMENT_SYSTEM.Services.Interface.IAuthService' while attempting to activate 'LIBRARY_MANAGEMENT_SYSTEM.Controllers.AuthController'.
+2026-01-18 15:05:33.071 +01:00 [ERR] An Error occured: Unable to resolve service for type 'LIBRARY_MANAGEMENT_SYSTEM.Services.Interface.IAuthService' while attempting to activate 'LIBRARY_MANAGEMENT_SYSTEM.Controllers.AuthController'.
+2026-01-18 15:05:41.926 +01:00 [ERR] An Error occured: Unable to resolve service for type 'LIBRARY_MANAGEMENT_SYSTEM.Services.Interface.IAuthService' while attempting to activate 'LIBRARY_MANAGEMENT_SYSTEM.Controllers.AuthController'.
